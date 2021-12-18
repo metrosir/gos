@@ -1,0 +1,14 @@
+*.rdb
+.externalToolBuilders
+*.project
+/tags
+_Store
+.buildpath
+.settings/
+gitflow/
+.DS_Store
+.idea
+/.vscode
+/web/test/
+rest-client.env.json
+/nbproject/
